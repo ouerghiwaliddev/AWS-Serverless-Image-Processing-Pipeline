@@ -827,9 +827,10 @@ After completing this project, you'll understand:
 
 ## Author
 
-**Ayman Aly Mahmoud**  
-Data Engineer | Azure + AWS | Big Data Engineering  
-[LinkedIn](https://linkedin.com/in/ayman-mahmoud) · [GitHub](https://github.com/ayman-aly) · ayman@manara.tech
+**Walid OUERGHI**  
+Data Engineer | Azure + AWS + GCP | Big Data Engineering  
+[LinkedIn](https://www.linkedin.com/in/walid-ouerghi-829554185/) · [GitHub](https://github.com/ouerghiwaliddev) · ouerghi.walid.dev@gmail.com
+
 
 ---
 
